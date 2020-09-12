@@ -1,0 +1,2 @@
+# MyChat
+I make this web application using PHP, HTML, CSS. I make this application while I was a student of CSE. The purpose of this application was to make a "chat community" for our classmates. So, we can easily contact each other using this application.The features of this web application are- 1. They can chat with each other. 2. Send friend request  3. Change their profile 4. Can change password 5. can change email
